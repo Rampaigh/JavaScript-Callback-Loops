@@ -1,1 +1,1 @@
-# JavaScript-Callback-Loops
+# JavaScript Callback Loops
