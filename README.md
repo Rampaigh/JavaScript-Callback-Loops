@@ -2,10 +2,10 @@
 Loop and Iterate through Arrays and Dictionaries in JavaScript.
 
 
-## ForEach.js
+### ForEach.js
 Use the `ForEach` function to loop through arrays.
 
-### Usage
+#### Usage
 ```javascript
 var array = [...];
 ForEach(array, function(index, value) {
@@ -14,10 +14,10 @@ ForEach(array, function(index, value) {
 ```
 
 
-## Iterate.js
+### Iterate.js
 Use the `Iterate` function to iterate through dictionaries.
 
-### Usage
+#### Usage
 ```javascript
 var dict = {...};
 Iterate(dict, function(key, value) {
